@@ -2,33 +2,35 @@
 
 ## Labs Index:
 
-HackTheBox Labs:
+### HackTheBox Labs:
 
 - Meow
 - Blue
 - Lame
 -
 
-TryHackMe Labs:
+### TryHackMe Labs:
 
 - 
 -
 -
 
-Blue Team Labs Online:
+### Blue Team Labs Online:
 
 -
 -
 -
 -
 
-## Meow Writeup:
+##  Writeups: 
+
+### Meow Writeup:
 [Writeup]
 
-## Blue Writeup:
+### Blue Writeup:
 [Writeup]
 
-## Lame Writeup:
+### Lame Writeup:
 [Writeup]
 
 
